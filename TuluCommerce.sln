@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{5E084A2A-B90E-4781-B757-5770497308CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{20C290D5-7ED7-46DD-91FC-BEEA8C9FA350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tulu.Web", "Presentation\Tulu.Web\Tulu.Web.csproj", "{0E6BDCC8-4E19-41E2-A1E6-883FF5F04F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tulu.Core", "Libraries\Tulu.Core\Tulu.Core.csproj", "{BE0BDF48-0C50-4AB1-A009-8A55B3BD4E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tulu.Data", "Libraries\Tulu.Data\Tulu.Data.csproj", "{76F93C8A-BDC2-4ADA-80C0-6CD2705533BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tulu.Service", "Libraries\Tulu.Service\Tulu.Service.csproj", "{240A2AFA-111B-407A-A2C4-47C4362466E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6BDCC8-4E19-41E2-A1E6-883FF5F04F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6BDCC8-4E19-41E2-A1E6-883FF5F04F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6BDCC8-4E19-41E2-A1E6-883FF5F04F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6BDCC8-4E19-41E2-A1E6-883FF5F04F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0BDF48-0C50-4AB1-A009-8A55B3BD4E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0BDF48-0C50-4AB1-A009-8A55B3BD4E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0BDF48-0C50-4AB1-A009-8A55B3BD4E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0BDF48-0C50-4AB1-A009-8A55B3BD4E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F93C8A-BDC2-4ADA-80C0-6CD2705533BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F93C8A-BDC2-4ADA-80C0-6CD2705533BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F93C8A-BDC2-4ADA-80C0-6CD2705533BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F93C8A-BDC2-4ADA-80C0-6CD2705533BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240A2AFA-111B-407A-A2C4-47C4362466E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240A2AFA-111B-407A-A2C4-47C4362466E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240A2AFA-111B-407A-A2C4-47C4362466E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240A2AFA-111B-407A-A2C4-47C4362466E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E6BDCC8-4E19-41E2-A1E6-883FF5F04F01} = {5E084A2A-B90E-4781-B757-5770497308CE}
+		{BE0BDF48-0C50-4AB1-A009-8A55B3BD4E47} = {20C290D5-7ED7-46DD-91FC-BEEA8C9FA350}
+		{76F93C8A-BDC2-4ADA-80C0-6CD2705533BA} = {20C290D5-7ED7-46DD-91FC-BEEA8C9FA350}
+		{240A2AFA-111B-407A-A2C4-47C4362466E5} = {20C290D5-7ED7-46DD-91FC-BEEA8C9FA350}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1DE7F1-1D9E-49D2-A644-5A36ABB38C58}
+	EndGlobalSection
+EndGlobal

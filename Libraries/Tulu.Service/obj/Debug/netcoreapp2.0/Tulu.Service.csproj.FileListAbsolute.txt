@@ -1,0 +1,14 @@
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Core.dll
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Data.dll
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.csprojAssemblyReference.cache
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.csproj.CoreCompileInputs.cache
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.AssemblyInfoInputs.cache
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.AssemblyInfo.cs
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Service.deps.json
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Service.dll
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Service.pdb
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Core.pdb
+D:\Github\tulushop\Libraries\Tulu.Service\bin\Debug\netcoreapp2.0\Tulu.Data.pdb
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.csproj.CopyComplete
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.dll
+D:\Github\tulushop\Libraries\Tulu.Service\obj\Debug\netcoreapp2.0\Tulu.Service.pdb

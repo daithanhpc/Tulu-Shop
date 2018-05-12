@@ -1,0 +1,9 @@
+D:\Github\tulushop\Libraries\Tulu.Core\bin\Debug\netcoreapp2.0\Tulu.Core.deps.json
+D:\Github\tulushop\Libraries\Tulu.Core\bin\Debug\netcoreapp2.0\Tulu.Core.dll
+D:\Github\tulushop\Libraries\Tulu.Core\obj\Debug\netcoreapp2.0\Tulu.Core.csprojAssemblyReference.cache
+D:\Github\tulushop\Libraries\Tulu.Core\obj\Debug\netcoreapp2.0\Tulu.Core.csproj.CoreCompileInputs.cache
+D:\Github\tulushop\Libraries\Tulu.Core\obj\Debug\netcoreapp2.0\Tulu.Core.AssemblyInfoInputs.cache
+D:\Github\tulushop\Libraries\Tulu.Core\obj\Debug\netcoreapp2.0\Tulu.Core.AssemblyInfo.cs
+D:\Github\tulushop\Libraries\Tulu.Core\bin\Debug\netcoreapp2.0\Tulu.Core.pdb
+D:\Github\tulushop\Libraries\Tulu.Core\obj\Debug\netcoreapp2.0\Tulu.Core.dll
+D:\Github\tulushop\Libraries\Tulu.Core\obj\Debug\netcoreapp2.0\Tulu.Core.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>This is small shopping cart.
+If you want to custom or other e-commercal, please contact me daithanhpc@gmail.com
+skype:daithanhpc</Description>
+    <Authors>daithanhpc@gmail.com</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tulu.Core\Tulu.Core.csproj" />
+    <ProjectReference Include="..\Tulu.Data\Tulu.Data.csproj" />
+  </ItemGroup>
+
+</Project>
